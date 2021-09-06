@@ -13,6 +13,8 @@ mv hass_environment_canada environment_canada
 
 ## Simple Configuration
 
+Add the following platforms to your installation's `configuration.yaml` file:
+
 ```yaml
 weather:
   - platform: environment_canada
