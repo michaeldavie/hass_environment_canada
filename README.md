@@ -1,4 +1,6 @@
-# Home Assistant Custom Component - Environment Canada
+Home Assistant Custom Component  
+Environment Canada
+===
 
 ## Installation
 
@@ -9,7 +11,7 @@ git clone https://github.com/michaeldavie/hass_environment_canada.git
 mv hass_environment_canada environment_canada
 ```
 
-## Easy Configuration
+## Simple Configuration
 
 ```yaml
 weather:
